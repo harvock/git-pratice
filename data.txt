@@ -1,3 +1,4 @@
 Name: Ronaldo
 Age: 32
 Favorite Color: Blue
+Hobby: Videogames
